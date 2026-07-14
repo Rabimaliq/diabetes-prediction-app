@@ -34,7 +34,7 @@ The engine is built using an optimized **Decision Tree Classifier** (`max_depth=
 | **Non-Diabetic (N)** | 0.97 | 0.93 | 0.95 | 30 |
 | **Pre-Diabetic (P)** | 0.89 | 1.00 | 0.94 | 8 |
 | **Diabetic (Y)** | 0.99 | 0.99 | 0.99 | 212 |
-| *Macro Average* | *0.95* | *0.97* | *0.96* | *250* |
+| **Macro Average** | *0.95* | *0.97* | *0.96* | *250* |
 | **Weighted Average** | **0.98** | **0.98** | **0.98** | **250** |
 
 ### 🧩 Confusion Matrix Analysis
